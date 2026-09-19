@@ -1,5 +1,8 @@
 # Histórias de Usuário — Sistema de Matrículas
 
+**Pedro Augusto Periceles de Paiva Milarde**
+**Santhiago Takaesu Sampaio**
+
 ## 1. Login
 
 **Como** usuário do sistema,
